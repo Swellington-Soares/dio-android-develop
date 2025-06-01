@@ -1,2 +1,2 @@
-# dio-android-develop
-Repositório para projetos do Bootcamp Formação Android Developer
+# REPOSITÓRIO DEDICATO AS ENTREGAS DOS EXERCÍCIOS DO BOOTCAMP ANDROID DEVELOPER DA DIO.
+
